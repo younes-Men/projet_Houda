@@ -1,0 +1,242 @@
+*{
+    font-style: normal;
+    }
+
+
+
+    
+
+
+
+
+
+
+
+    .banner{
+        width: 100%;
+        height: 100vh;
+    }
+    .banner h1{
+        text-align: center;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+    .banner img{
+        width: 60%;
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+    .banner p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+
+   .Achat h1{
+        margin-left: -1020px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+    .Achat p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .Préparation h1{
+        margin-left: -930px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+    .Préparation p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+    .Utilisation h1{
+        margin-left: -950px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+    .Utilisation p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+
+
+
+
+
+
+
+
+    .Conservation h1{
+        margin-left: -910px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+    .Conservation p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+
+
+
+
+
+
+
+
+
+    .Valeur-nutritionnelle h1{
+        margin-left: -790px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+    .Valeur-nutritionnelle p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+
+
+
+
+
+
+
+
+    .Variétés h1{
+        margin-left: -1000px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+    .Variétés p{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: 'League Spartan', sans-serif;
+        color: rgb(158, 158, 158);
+    }
+
+
+
+
+
+
+
+
+
+
+
+    /*---------------320 TO 767------------------*/
+
+@media  screen and (min-width: 320px)  and (max-width: 767px){
+    .banner h1{
+        color: black;
+        margin-left: 50px;
+        margin-top: 20px;
+        font-size: 35px;
+        font-family: 'League Spartan', sans-serif;
+    }
+  
+
+   .Achat h1{
+        margin-left: 50px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+
+
+
+
+
+    .Préparation h1{
+        margin-left: 50px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+ 
+    .Utilisation h1{
+        margin-left: 50px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+ 
+
+
+    .Conservation h1{
+        margin-left: 50px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+
+
+
+    .Valeur-nutritionnelle h1{
+        margin-left: 50px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+
+
+    .Variétés h1{
+        margin-left: 50px;
+        color: black;
+        margin-top: 20px;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+
+}
+
+
+
+ 

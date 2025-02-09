@@ -1,0 +1,245 @@
+
+.B{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 100px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.img2{
+    margin: 30px auto;
+    border-radius: 10px;
+    
+}
+.P1{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+    
+}
+
+.D{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.img3{
+    width: 30%;
+    margin: 45px auto;
+    border-radius: 10px;
+    
+}    
+.P2{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+
+}
+
+.F{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.P3{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+.img4{
+    width: 32%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+
+.H{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.img5{
+    width: 30%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+.P4{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+
+.J{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.P5{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+.img6{
+    width: 29%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+
+.L{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.img7{
+    width: 30%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+.P6{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+
+.N{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+.P7{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+.img8{
+    width: 30%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+.U{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+
+.img9{
+    width: 32%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+.P8{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+.W{
+    color: #9e121b;
+    /* border-bottom: 2px solid; */
+    /* width: 15%; */
+    /* padding:20px 0px 0px 0px; */
+    margin-top: 50px;
+    text-align: center;
+    /* font-family: monospace; */
+}
+.card{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+}
+
+.P9{
+    font-size: 17px;
+    text-indent: 20px;
+    /* font-weight:700 ; */
+    line-height: 1.7;
+    /* font-style: italic; */
+}
+.img10{
+    width: 29%;
+    margin: 45px auto ;
+    border-radius: 10px;
+}
+
+
+section{
+    margin-top: 150px;
+}
+
+.up{
+    position: fixed;
+    bottom: 10px;
+    right: -30px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 4px;
+    font-family: arial ,Tahoma;
+    cursor: pointer;
+  
+  
+  }
+  .up.show{
+    right: 20px;
+    bottom: 40px;
+  }
+
+
+
+
+
+
